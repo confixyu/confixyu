@@ -1,8 +1,8 @@
 # Tony Yu  
 @confixyu
 
-## Hi! 
-As a Web Developer with 3+ years of experience, I am technologist in Analysis and Design of Systems and Computer, I understand the process of solving problems that plague Websites. I am a full-stack Web Developer. I can build entire Websites from scratch or I can optimize an existing app already in the field. 
+## PROFILE: 
+As a web Developer with 5+ years of experience, I am a technologist in Analysis and Design of Systems and Computer, I understand the process of solving problems that plague Websites. I am a full-stack Web Developer with Python, JavaScript, Ruby. I can build entire Websites from scratch or I can optimize an existing app already. 
 
 ### SKILL: 
 - Ruby - Ruby on Rails 
@@ -11,5 +11,6 @@ As a Web Developer with 3+ years of experience, I am technologist in Analysis an
 - HTML & CSS 
 
 ### LANGUAGES: 
-- Spanish
-- English
+- Spanish - Native
+- English - B2
+- Cantonese (TaiShan dialect) - Native
